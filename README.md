@@ -4,3 +4,4 @@ Let's create some conflicts to merge
 * Ceci est la premiere partie de ma liste.
 * Ceci est la deuxieme.
 * Ceci est la troisieme.
+*This one is the fourth one
