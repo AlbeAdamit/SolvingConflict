@@ -5,3 +5,6 @@ Let's create some conflicts to merge
 * Ceci est la deuxieme.
 * Ceci est la troisieme.
 *This one is the fourth one
+* conflictiscious
+* quality story writing
+* one more line
